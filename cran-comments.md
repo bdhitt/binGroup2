@@ -1,6 +1,8 @@
 ## Test environments
 
 * local Windows 11 Home install, R 4.5.1
+* windows, R version 4.5.1 (via win-builder)
+* windows, R Under development (via win-builder)
 
 Virtual machines (via rhub): 
 * linux, all R versions on GitHub Actions ubuntu-latest

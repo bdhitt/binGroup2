@@ -7,7 +7,7 @@
 #'
 #' @description \code{ExpTests} is a generic function that extracts the expected
 #'   number of tests from an object that contains information
-#'   aboout a testing configuration.
+#'   about a testing configuration.
 #'
 #' @param object An object for which a summary of the expected number of tests is desired.
 #' @param ... Additional arguments to be passed to \code{ExpTests}.
@@ -67,7 +67,7 @@ Config <- function(object, ...) {
 #'
 #' @description \code{pmf} is a generic function that extracts the probability
 #'   mass function from an object (if available) that contains information
-#'   aboout a testing configuration.
+#'   about a testing configuration.
 #' @author Christopher R. Bilder
 #' @param object An object from which the probability mass function is to be extracted.
 #' @param ... Additional arguments to be passed to \code{pmf}.

@@ -54,7 +54,7 @@
 #' Further details are given under 'Details'.
 #' @param weights a matrix of up to six sets of weights for the GR function.
 #' Each set of weights is specified by a row of the matrix.
-#' @param alpha a shape parameter for the betadistribution that specifies the
+#' @param alpha a shape parameter for the beta distribution that specifies the
 #' degree of heterogeneity for the generated probability vector (for
 #' informative testing only).
 #' @param trace a logical value indicating whether the progress of
