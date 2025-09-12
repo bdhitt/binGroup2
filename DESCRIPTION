@@ -2,7 +2,7 @@ Package: binGroup2
 Type: Package
 Title: Identification and Estimation using Group Testing
 Version: 1.3.3
-Date: 2025-09-11
+Date: 2025-09-12
 Authors@R: c(person("Brianna", "Hitt", role=c("aut", "cre"), email="brianna.hitt@afacademy.af.edu", comment=c(ORCID="0000-0002-0645-0067")), 
              person("Christopher", "Bilder",  role="aut", comment=c(ORCID="0000-0002-2848-8576")), 
              person("Frank", "Schaarschmidt", role="aut", comment=c(ORCID="0000-0002-6599-3803")),
